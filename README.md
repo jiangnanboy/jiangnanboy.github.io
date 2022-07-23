@@ -1,5 +1,5 @@
 # 项目链接
-https://shiyan.github.io
+https://jiangnanboy.github.io
 
 # 关于项目  
 面向搜索、推荐、nlp以及大数据挖掘的四十多个实践项目，欢迎大家使用，并提出批评意见。
